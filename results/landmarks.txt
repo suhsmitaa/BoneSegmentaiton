@@ -1,0 +1,20 @@
+Original Mask:
+  Medial Point: (215, 403, 256)
+  Lateral Point: (215, 354, 486)
+
+2mm Expanded Mask:
+  Medial Point: (215, 403, 254)
+  Lateral Point: (215, 354, 488)
+
+4mm Expanded Mask:
+  Medial Point: (215, 403, 252)
+  Lateral Point: (215, 354, 490)
+
+Randomized Mask 1:
+  Medial Point: (215, 403, 256)
+  Lateral Point: (215, 354, 486)
+
+Randomized Mask 2:
+  Medial Point: (215, 403, 256)
+  Lateral Point: (215, 354, 486)
+
